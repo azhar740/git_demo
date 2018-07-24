@@ -1,0 +1,3 @@
+scm docker
+sudo sv stop cc
+sudo sv start cc
