@@ -1,4 +1,4 @@
-scm docker
-sudo sv stop cc
-sudo sv start cc
-azhar
+list = [1,2,3,4,5,6,76,7,8]
+for i in list:
+	print(i);
+
