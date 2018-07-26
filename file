@@ -1,8 +1,13 @@
-csjkfhskfdlsvm,d
-jfbsvm
-kjsdbv nsmnvs
-jbslvjevld
-bkvjwdvlvkd
- skmc,nsclkw
- cbsk;bw;lkf
- bjsbsdlv
+
+list = [1,2,3,4,5,6,76,7,8]
+for i in range(0,len(list)):
+	print(list[i])
+for i in list:
+	if( i%2 == 0 ):
+		print(i)
+for i in list:
+        if( i%2 != 0 ):
+                print(i)
+new_list = []
+new_list.append(list)
+new_list.append("azhar")
