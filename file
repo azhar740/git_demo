@@ -10,3 +10,4 @@ for i in list:
 new_list = []
 new_list.append(list)
 new_list.append("azhar")
+print(new_list)
