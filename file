@@ -9,6 +9,7 @@ for i in list:
         if( i%2 != 0 ):
                 print(i)
 new_list = []
+<<<<<<< HEAD
 # dictionary 
 def func():
 	pass
@@ -27,3 +28,5 @@ print(obj.name)
 
 
 
+=======
+>>>>>>> 1ee86a5fac4580b663ff6feb89619273c82f7045
