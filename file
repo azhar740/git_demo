@@ -10,5 +10,7 @@ for i in list:
                 print(i)
 new_list = []
 # dictionary 
+<<<<<<< HEAD
 for i in list:
+while():
 	pass
