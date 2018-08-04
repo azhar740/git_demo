@@ -12,3 +12,6 @@ new_list = []
 # dictionary 
 def func():
 	pass
+def sum():
+	pass
+
