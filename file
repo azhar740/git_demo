@@ -10,5 +10,5 @@ for i in list:
                 print(i)
 new_list = []
 # dictionary 
-def func():
+for i in list:
 	pass
