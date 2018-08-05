@@ -24,3 +24,4 @@ class Test:
 obj = Test()
 obj.fun()
 print(obj.name)
+print('azhar')
