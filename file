@@ -9,4 +9,5 @@ for i in list:
         if( i%2 != 0 ):
                 print(i)
 new_list = []
-# dictionary 
+new_list.append(list)
+new_list.append("azhar")
