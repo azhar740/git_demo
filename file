@@ -10,3 +10,20 @@ for i in list:
                 print(i)
 new_list = []
 new_list.append(list)
+# dictionary 
+def func():
+	pass
+# A simple example class
+class Test:
+    name = "azharuddin khan"
+    # A sample method 
+    def fun(self):
+        print("Hello")
+    
+
+# Driver code
+obj = Test()
+obj.fun()
+print(obj.name)
+print('azhar')
+print("aws login")
